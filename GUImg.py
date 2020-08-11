@@ -5,8 +5,6 @@ from PIL import ImageTk
 import numpy as np
 #from scipy import ndimage.filters
 import cv2
-import calendar
-import time
 import os
 
 def clicRechercher():
